@@ -1,0 +1,13 @@
+﻿
+$-brojki sto ke gi dade programata sekoj pat razlicni
+a,b,c,d...-vnesen broj od kvadratcinjata
+⁻ ¹ ² ³ ⁴ √ ∕ × ∙ -korisni karakteri za pisuvanje izrazi(samo copy, paste vo izrazite dole!)
+dali da se koristi * × ∙ za mnozenje?
+
+Primeri za izrazi za aplikacija:
+
+(a+$)*b=$
+($-a)*(b-$)=$
+$*a²+$*a+$=0
+$*b³=$*b²
+($-a)²=b
